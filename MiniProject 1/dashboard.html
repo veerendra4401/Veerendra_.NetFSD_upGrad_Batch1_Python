@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - E-Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>E-Learning Platform</h1>
+        <nav>
+            <ul>
+                <li><a href="dashboard.html" aria-current="page">Dashboard</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="quiz.html">Quiz</a></li>
+                <li><a href="profile.html">Profile</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+            <li><a href="dashboard.html">Home</a></li>
+            <li aria-current="page">Dashboard</li>
+        </ol>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Welcome back, <span id="userName">Learner</span>!</h2>
+            <div id="dashboardContent">
+                <!-- Dashboard content will be dynamically loaded here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 E-Learning Platform. All rights reserved.</p>
+    </footer>
+
+    <script src="courses.js"></script>
+    <script src="quiz-data.js"></script>
+    <script src="storage.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
