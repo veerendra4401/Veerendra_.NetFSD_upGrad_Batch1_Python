@@ -71,9 +71,8 @@ nav a[aria-current="page"] {
 /* Breadcrumb Navigation */
 .breadcrumb {
     padding: 1rem 2rem;
-    background: white;
-    border-bottom: 1px solid #ddd;
-    background: linear-gradient(to right, #ffffff, #f8f9fa);
+    background: var(--primary-gradient);
+    border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
 .breadcrumb ol {
@@ -86,18 +85,28 @@ nav a[aria-current="page"] {
 .breadcrumb li:not(:last-child)::after {
     content: "›";
     margin-left: 0.5rem;
-    color: #999;
+    color: rgba(255,255,255,0.8);
 }
 
 /* override nav link styles so breadcrumbs aren't affected */
-.breadcrumb a {
-    color: var(--secondary-color);
+.breadcrumb a,
+.breadcrumb a:link,
+.breadcrumb a:visited {
+    color: white !important;
     text-decoration: none;
+}
+
+.breadcrumb a {
     padding: 0.2rem 0.4rem;
     display: inline-block;
     border-radius: var(--border-radius);
     transition: var(--transition);
     background-color: transparent !important;
+}
+
+/* Ensure current breadcrumb item (not a link) is legible */
+.breadcrumb li[aria-current="page"] {
+    color: white;
 }
 
 .breadcrumb a::after {
