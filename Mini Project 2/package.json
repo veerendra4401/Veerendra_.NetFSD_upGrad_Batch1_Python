@@ -1,0 +1,12 @@
+{
+  "name": "elearning-frontend-tests",
+  "version": "1.0.0",
+  "description": "Tests for E-Learning Platform Frontend logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

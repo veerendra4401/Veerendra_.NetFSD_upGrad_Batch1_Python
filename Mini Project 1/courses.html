@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses - E-Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>E-Learning Platform</h1>
+        <nav>
+            <ul>
+                <li><a href="dashboard.html">Dashboard</a></li>
+                <li><a href="courses.html" aria-current="page">Courses</a></li>
+                <li><a href="quiz.html">Quiz</a></li>
+                <li><a href="profile.html">Profile</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+            <li><a href="dashboard.html">Home</a></li>
+            <li><a href="courses.html">Courses</a></li>
+            <li aria-current="page">All Courses</li>
+        </ol>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Available Courses</h2>
+            <div id="coursesContainer">
+            </div>
+            
+            <h3>Course Overview</h3>
+            <div id="courseTable">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 E-Learning Platform. All rights reserved.</p>
+    </footer>
+
+    <script src="courses.js"></script>
+    <script src="quiz-data.js"></script>
+    <script src="storage.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
