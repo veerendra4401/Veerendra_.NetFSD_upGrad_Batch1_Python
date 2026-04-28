@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yy/DBmWY0gYf9R3uZ0xSFn5wPFXWbsqaOkFWfBSrnWc=",
+  "Hash": "atO+7q9pZ5Xq5ephcb9e89O5R9cKCX1QZaD+2H4DeuY=",
   "Source": "ELearningAPI",
   "BasePath": "_content/ELearningAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ELearningAPI\\wwwroot",
       "Source": "ELearningAPI",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\courses.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\courses.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "courses.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\courses.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\courses.js",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\courses.js",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "courses.js",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\courses.js"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\dashboard.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\dashboard.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "dashboard.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\dashboard.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\favicon.png",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\favicon.png",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\index.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\index.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\login.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\login.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "login.html",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\profile.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\profile.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "profile.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\profile.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\quiz-data.js",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\quiz-data.js",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "quiz-data.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\quiz-data.js"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\quiz.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\quiz.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "quiz.html",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\quiz.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\register.html",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\register.html",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "register.html",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\register.html"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\script.js",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\script.js",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "script.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\storage.js",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\storage.js",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "storage.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\storage.js"
     },
     {
-      "Identity": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\style.css",
+      "Identity": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\style.css",
       "SourceId": "ELearningAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Backend)\\Backend\\ELearningAPI\\wwwroot\\",
+      "ContentRoot": "E:\\Project UpGrad\\Mini Project 2\\Backend\\ELearningAPI\\wwwroot\\",
       "BasePath": "_content/ELearningAPI",
       "RelativePath": "style.css",
       "AssetKind": "All",

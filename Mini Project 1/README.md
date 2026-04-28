@@ -36,3 +36,13 @@ A simple multi-page e-learning platform built with HTML, CSS, and JavaScript.
 - `storage.js` - Local storage management
 - `tests/` - Unit tests for quiz logic
 
+## Grading System
+
+- A: 90%+
+- B: 80-89%
+- C: 70-79%
+- D: 60-69%
+- F: Below 60%
+
+Pass threshold: 60%</content>
+<parameter name="filePath">e:\Project UpGrad\Batch5_ThogitiVeerendra_Multi-Page E-Learning Platform (Frontend)\README.md

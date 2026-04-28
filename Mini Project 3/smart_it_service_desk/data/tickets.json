@@ -1,0 +1,17 @@
+[
+  {
+    "ticket_type": "ServiceRequest",
+    "ticket_id": "TKT-C6E1FCA7",
+    "employee_name": "Veerendra",
+    "department": "IT",
+    "issue_description": "Network",
+    "category": "No server of network",
+    "priority": "P4",
+    "status": "Open",
+    "created_at": "2026-04-27 18:07:35",
+    "resolved_at": null,
+    "updated_at": "2026-04-27 18:07:35",
+    "requested_service": "yes",
+    "approved_by": "manager"
+  }
+]

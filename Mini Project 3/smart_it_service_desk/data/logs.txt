@@ -1,0 +1,1102 @@
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpa45ybrak\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0028s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-C816A71B] P4 | Open | Alice (HR) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp8o2t9puf\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0036s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-A2218315] P4 | Open | Bob (Finance) — Please reset my password
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpiuzvbywr\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-9667CA54] P3 | Open | Eve (IT) — Printer failure
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpxpleyi79\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0049s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-2787B90B] P3 | Open | Frank (IT) — Laptop slow
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-D31EFB16] P4 | Open | User0 (IT) — Issue number 0
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-6BE2E9D6] P4 | Open | User1 (IT) — Issue number 1
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-C7CA131A] P4 | Open | User2 (IT) — Issue number 2
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 4 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0026s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-247B6694] P4 | Open | User3 (IT) — Issue number 3
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 5 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-010C63E0] P4 | Open | User4 (IT) — Issue number 4
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 6 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-8224CF4C] P4 | Open | User5 (IT) — Issue number 5
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 7 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-93730EEB] P4 | Open | User6 (IT) — Issue number 6
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 8 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-34F3452B] P4 | Open | User7 (IT) — Issue number 7
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 9 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-07AEBD00] P4 | Open | User8 (IT) — Issue number 8
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 10 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0032s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-3B2AB44F] P4 | Open | User9 (IT) — Issue number 9
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 11 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-0F3B5647] P4 | Open | User10 (IT) — Issue number 10
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 12 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-AF7F1C9F] P4 | Open | User11 (IT) — Issue number 11
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 13 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0029s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-D0807147] P4 | Open | User12 (IT) — Issue number 12
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 14 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0025s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-986CFB37] P4 | Open | User13 (IT) — Issue number 13
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 15 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-A4872696] P4 | Open | User14 (IT) — Issue number 14
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 16 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-8982D6E8] P4 | Open | User15 (IT) — Issue number 15
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 17 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-14C54074] P4 | Open | User16 (IT) — Issue number 16
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 18 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-699BA599] P4 | Open | User17 (IT) — Issue number 17
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 19 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-C814EDF5] P4 | Open | User18 (IT) — Issue number 18
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 20 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplrv5qh6r\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-1794FB9E] P4 | Open | User19 (IT) — Issue number 19
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmprh06w459\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-EF31C28B] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Escalate Ticket' via escalate_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmprh06w459\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [WARNING]  tickets | Ticket TKT-EF31C28B ESCALATED due to SLA breach.
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Escalate Ticket' via escalate_ticket
+2026-04-27 18:02:06 [WARNING]  tickets | [SLA BREACH] Ticket TKT-EF31C28B escalated — priority P1
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpmgauexa7\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0031s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-0093EFD3] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpmgauexa7\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0035s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-C68116C8] P4 | Open | Test (IT) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpb3sjvwme\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0035s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-CEAC69B0] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpjktmir3m\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-AE967748] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpe1p9lfmi\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-3D0A045C] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:06] P1 ALERT | CPU | cpu_percent: 99.0  (threshold: 50.0) | CPU usage critical: 99.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpjmdka812\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-51371EEF] P1 | Open | System Monitor (IT Infrastructure) — CPU usage critical: 99.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-51371EEF
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:06] P1 ALERT | CPU | cpu_percent: 95.0  (threshold: 50.0) | CPU usage critical: 95.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpf_p06pba\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-4A08FAA8] P1 | Open | System Monitor (IT Infrastructure) — CPU usage critical: 95.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-4A08FAA8
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:06] P1 ALERT | DISK | disk_free_pct: 5.0  (threshold: 50.0) | Disk free critically low: 5.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpc1y0gpzq\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-3540B33A] P1 | Open | System Monitor (IT Infrastructure) — Disk free critically low: 5.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-3540B33A
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:06] P1 ALERT | RAM | ram_percent: 97.0  (threshold: 50.0) | RAM usage critical: 97.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpr9m5pt0s\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-6C6789B7] P1 | Open | System Monitor (IT Infrastructure) — RAM usage critical: 97.0%
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-6C6789B7
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpqbg28ibo\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-CE993EA5] P4 | Open | Irene (HR) — Password reset needed
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Backup to CSV' via backup_to_csv
+2026-04-27 18:02:06 [INFO]     tickets | Backup written to C:\Users\thogi\AppData\Local\Temp\tmpqbg28ibo\test_tickets.csv (1 rows)
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Backup to CSV' via backup_to_csv
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] backup_to_csv executed in 0.0021s
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpsd3f7g0v\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0033s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-DAC4DCDA] P3 | Open | Henry (Finance) — Application crash
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     tickets | Loaded 1 tickets from C:\Users\thogi\AppData\Local\Temp\tmpsd3f7g0v\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpoelwe326\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-D3239CCA] P3 | Open | Grace (IT) — Disk full
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpz9tpn3_3\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-5A98564E] P3 | Open | Jack (IT) — High CPU
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Update Ticket Status' via update_status
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpz9tpn3_3\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket TKT-5A98564E status: Open → Resolved
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Update Ticket Status' via update_status
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp2acstrvy\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0027s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-1E9BD4C6] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp2acstrvy\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-8D8B6DED] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp2acstrvy\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-ECB0DED3] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp80749o7k\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-8A0704D8] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp80749o7k\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0031s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-30E27897] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp80749o7k\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-B130468B] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp5r8u7d4j\test_tickets.json
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:06 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:06 [INFO]     tickets | Ticket CREATED: [TKT-248F1272] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:06 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp5r8u7d4j\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-3A55DDE0] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp5r8u7d4j\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-E20D85B5] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     tickets | Search 'Finance' → 1 result(s)
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpojiqjzsg\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-AC7C7878] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpojiqjzsg\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0030s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-03655F3A] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpojiqjzsg\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-3795F09E] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     tickets | Search 'Alice' → 1 result(s)
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpgqoptvhj\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-DCD696E3] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpgqoptvhj\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-37A391EA] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpgqoptvhj\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-0EE0F423] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     tickets | Search 'server' → 1 result(s)
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmps55dw1xn\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0025s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-1120F274] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmps55dw1xn\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0036s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-FB77B35A] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmps55dw1xn\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0021s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-49B5DF61] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     tickets | Search 'xyzzy_nonexistent' → 0 result(s)
+2026-04-27 18:02:07 [ERROR]    tickets | Failed to load tickets.json: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Delete Ticket' via delete_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Update Ticket Status' via update_status
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Request Change' via request_change
+2026-04-27 18:02:07 [INFO]     itil | [CHANGE] Requested: [CHG-012C8E] Standard | Requested | Patch Server
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Request Change' via request_change
+2026-04-27 18:02:07 [INFO]     itil | [CHANGE] Approved: CHG-012C8E by CAB Team
+2026-04-27 18:02:07 [INFO]     itil | [CHANGE] Implementation started: CHG-012C8E
+2026-04-27 18:02:07 [INFO]     itil | [CHANGE] Verified: CHG-012C8E
+2026-04-27 18:02:07 [INFO]     itil | [CHANGE] Closed: CHG-012C8E
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Log Incident' via log_incident
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmppghtnla1\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-D49E4095] P1 | Open | Karen (IT) — Server down
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     itil | [INCIDENT] Logged: TKT-D49E4095 | Priority: P1
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Log Incident' via log_incident
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Log Incident' via log_incident
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpij1pgfs6\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-47B4550E] P2 | Open | Leo (IT) — Internet down
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     itil | [INCIDENT] Logged: TKT-47B4550E | Priority: P2
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Log Incident' via log_incident
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Update Ticket Status' via update_status
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpij1pgfs6\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0033s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket TKT-47B4550E status: Open → Resolved
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Update Ticket Status' via update_status
+2026-04-27 18:02:07 [INFO]     itil | [INCIDENT] Resolved: TKT-47B4550E — Router restarted.
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmputcfw0_s\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0028s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-4708F8C2] P3 | Open | User0 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmputcfw0_s\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-5E066061] P3 | Open | User1 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmputcfw0_s\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-DF4E138B] P3 | Open | User2 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Generate Daily Report' via daily_report
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpeqlo1dy4\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-0C53C62F] P3 | Open | User0 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpeqlo1dy4\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-DD95D748] P3 | Open | User1 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpeqlo1dy4\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-46620D81] P3 | Open | User2 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Generate Daily Report' via daily_report
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkpr25vjr\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-5DA28F94] P3 | Open | User0 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkpr25vjr\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0028s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-F7FD6FE2] P3 | Open | User1 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkpr25vjr\test_tickets.json
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:07 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0021s
+2026-04-27 18:02:07 [INFO]     tickets | Ticket CREATED: [TKT-3589EB26] P3 | Open | User2 (IT) — Laptop slow
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:07 [INFO]     utils | [AUDIT] Starting 'Generate Monthly Report' via monthly_report
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpyktlnyvm\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-B3E3A17D] P1 | Open | Alice (HR) — Server is down
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp6dlrye99\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-63F6672A] P4 | Open | Bob (Finance) — Please reset my password
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpxkgnmxf1\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0039s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-984E8E84] P3 | Open | Eve (IT) — Printer failure
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpk8jvb_at\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-2940CC62] P3 | Open | Frank (IT) — Laptop slow
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-DEB2EC83] P4 | Open | User0 (IT) — Issue number 0
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0024s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-7EF95C76] P4 | Open | User1 (IT) — Issue number 1
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0014s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-748BA01B] P4 | Open | User2 (IT) — Issue number 2
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 4 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0012s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-8C29FE57] P4 | Open | User3 (IT) — Issue number 3
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 5 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-3FCCDE34] P4 | Open | User4 (IT) — Issue number 4
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 6 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-35C5CD3B] P4 | Open | User5 (IT) — Issue number 5
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 7 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0014s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-5AB9AFB9] P4 | Open | User6 (IT) — Issue number 6
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 8 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-04274E9C] P4 | Open | User7 (IT) — Issue number 7
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 9 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0026s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-7BF641D3] P4 | Open | User8 (IT) — Issue number 8
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 10 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-71A43104] P4 | Open | User9 (IT) — Issue number 9
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 11 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-F1E03AC3] P4 | Open | User10 (IT) — Issue number 10
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 12 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-C2A04FEB] P4 | Open | User11 (IT) — Issue number 11
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 13 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-7A28FDF2] P4 | Open | User12 (IT) — Issue number 12
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 14 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-D7740D47] P4 | Open | User13 (IT) — Issue number 13
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 15 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0038s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-D73345F1] P4 | Open | User14 (IT) — Issue number 14
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 16 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0032s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-366B6AAF] P4 | Open | User15 (IT) — Issue number 15
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 17 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0034s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-F3276148] P4 | Open | User16 (IT) — Issue number 16
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 18 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0018s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-3B0E5F0C] P4 | Open | User17 (IT) — Issue number 17
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 19 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-A643F3FD] P4 | Open | User18 (IT) — Issue number 18
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 20 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpl1lfc8lq\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0056s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-B80C4850] P4 | Open | User19 (IT) — Issue number 19
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpf10zrncj\test_tickets.json
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:37 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:37 [INFO]     tickets | Ticket CREATED: [TKT-363C2400] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Escalate Ticket' via escalate_ticket
+2026-04-27 18:02:37 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpf10zrncj\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:38 [WARNING]  tickets | Ticket TKT-363C2400 ESCALATED due to SLA breach.
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Escalate Ticket' via escalate_ticket
+2026-04-27 18:02:38 [WARNING]  tickets | [SLA BREACH] Ticket TKT-363C2400 escalated — priority P1
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpjcgbnv_u\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-5EEFD982] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpjcgbnv_u\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0021s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-D3AE04D0] P4 | Open | Test (IT) — Server is down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpicwz2w1v\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-A9F52B09] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkkl51td1\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0021s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-AE316CFD] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmps4tkp9m6\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-07342F0F] P1 | Open | Test (IT) — Server is down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:38] P1 ALERT | CPU | cpu_percent: 99.0  (threshold: 50.0) | CPU usage critical: 99.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpaz0um9zh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0031s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-189124DE] P1 | Open | System Monitor (IT Infrastructure) — CPU usage critical: 99.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-189124DE
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:38] P1 ALERT | CPU | cpu_percent: 95.0  (threshold: 50.0) | CPU usage critical: 95.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmplm7uud13\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-E6DED514] P1 | Open | System Monitor (IT Infrastructure) — CPU usage critical: 95.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-E6DED514
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:38] P1 ALERT | DISK | disk_free_pct: 5.0  (threshold: 50.0) | Disk free critically low: 5.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpc1wonr1k\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0026s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-57EB6B2A] P1 | Open | System Monitor (IT Infrastructure) — Disk free critically low: 5.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-57EB6B2A
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [CRITICAL] monitor | [MONITOR] [2026-04-27 18:02:38] P1 ALERT | RAM | ram_percent: 97.0  (threshold: 50.0) | RAM usage critical: 97.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpi2_vd18w\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-164550A5] P1 | Open | System Monitor (IT Infrastructure) — RAM usage critical: 97.0%
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     monitor | [MONITOR] Auto-ticket created: TKT-164550A5
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Auto Create Monitor Ticket' via _auto_create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpyl6odq3x\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0027s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-49F47BCC] P4 | Open | Irene (HR) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Backup to CSV' via backup_to_csv
+2026-04-27 18:02:38 [INFO]     tickets | Backup written to C:\Users\thogi\AppData\Local\Temp\tmpyl6odq3x\test_tickets.csv (1 rows)
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Backup to CSV' via backup_to_csv
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] backup_to_csv executed in 0.0026s
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpjhpiqgw_\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-CE2005D2] P3 | Open | Henry (Finance) — Application crash
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     tickets | Loaded 1 tickets from C:\Users\thogi\AppData\Local\Temp\tmpjhpiqgw_\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp5yfh_3o6\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-102CD9B0] P3 | Open | Grace (IT) — Disk full
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpklcki63h\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0014s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-F04E0354] P3 | Open | Jack (IT) — High CPU
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Update Ticket Status' via update_status
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpklcki63h\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0016s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket TKT-F04E0354 status: Open → Resolved
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Update Ticket Status' via update_status
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpr7hrabk2\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-616A5B23] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpr7hrabk2\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-783A6165] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpr7hrabk2\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0026s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-71B9B91C] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp3hqxxbu3\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-A5602068] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp3hqxxbu3\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-54F10814] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp3hqxxbu3\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0012s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-E7BE9BEE] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpxbrmx0_b\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0035s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-F8F92B5B] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpxbrmx0_b\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-683E65BA] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpxbrmx0_b\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-C946A6D4] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     tickets | Search 'Finance' → 1 result(s)
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpqfcr8k39\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-139EF99E] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpqfcr8k39\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-2FD4B49D] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpqfcr8k39\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-16C3261E] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     tickets | Search 'Alice' → 1 result(s)
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkwnzo_eh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-0628C814] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkwnzo_eh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0014s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-074C61C4] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpkwnzo_eh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-45CC8321] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     tickets | Search 'server' → 1 result(s)
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp44kukmgv\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-7C332FA5] P3 | Open | Alice (HR) — Printer failure in HR room
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp44kukmgv\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0014s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-452D1931] P1 | Open | Bob (IT) — Server down urgently
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp44kukmgv\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-181065D7] P4 | Open | Carol (Finance) — Password reset needed
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     tickets | Search 'xyzzy_nonexistent' → 0 result(s)
+2026-04-27 18:02:38 [ERROR]    tickets | Failed to load tickets.json: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Delete Ticket' via delete_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Update Ticket Status' via update_status
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Request Change' via request_change
+2026-04-27 18:02:38 [INFO]     itil | [CHANGE] Requested: [CHG-A2A074] Standard | Requested | Patch Server
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Request Change' via request_change
+2026-04-27 18:02:38 [INFO]     itil | [CHANGE] Approved: CHG-A2A074 by CAB Team
+2026-04-27 18:02:38 [INFO]     itil | [CHANGE] Implementation started: CHG-A2A074
+2026-04-27 18:02:38 [INFO]     itil | [CHANGE] Verified: CHG-A2A074
+2026-04-27 18:02:38 [INFO]     itil | [CHANGE] Closed: CHG-A2A074
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Log Incident' via log_incident
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpzloysy0g\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0012s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-3A3AB1BF] P1 | Open | Karen (IT) — Server down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     itil | [INCIDENT] Logged: TKT-3A3AB1BF | Priority: P1
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Log Incident' via log_incident
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Log Incident' via log_incident
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpi5hb6log\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-70B1FA43] P2 | Open | Leo (IT) — Internet down
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     itil | [INCIDENT] Logged: TKT-70B1FA43 | Priority: P2
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Log Incident' via log_incident
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Update Ticket Status' via update_status
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpi5hb6log\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0017s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket TKT-70B1FA43 status: Open → Resolved
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Update Ticket Status' via update_status
+2026-04-27 18:02:38 [INFO]     itil | [INCIDENT] Resolved: TKT-70B1FA43 — Router restarted.
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpfrfeiaur\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0015s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-1AABD3EB] P3 | Open | User0 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpfrfeiaur\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0019s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-93AD0173] P3 | Open | User1 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmpfrfeiaur\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0020s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-6E138EF1] P3 | Open | User2 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Generate Daily Report' via daily_report
+2026-04-27 18:02:38 [INFO]     reports | Report saved: C:\Users\thogi\AppData\Local\Temp\tmpfrfeiaur\reports\daily_20260427.json
+2026-04-27 18:02:38 [INFO]     reports | [REPORT] Daily report generated for 2026-04-27
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Generate Daily Report' via daily_report
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] daily_report executed in 0.0028s
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp9byr0i26\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0022s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-76363A74] P3 | Open | User0 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp9byr0i26\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0023s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-6483AA7E] P3 | Open | User1 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp9byr0i26\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0030s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-3CD81FA2] P3 | Open | User2 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Generate Daily Report' via daily_report
+2026-04-27 18:02:38 [INFO]     reports | Report saved: C:\Users\thogi\AppData\Local\Temp\tmp9byr0i26\reports\daily_20260427.json
+2026-04-27 18:02:38 [INFO]     reports | [REPORT] Daily report generated for 2026-04-27
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Generate Daily Report' via daily_report
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] daily_report executed in 0.0023s
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 1 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp_53jjcdh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0012s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-3ADE7213] P3 | Open | User0 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 2 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp_53jjcdh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0013s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-5C0D0536] P3 | Open | User1 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [INFO]     tickets | Saved 3 ticket(s) to C:\Users\thogi\AppData\Local\Temp\tmp_53jjcdh\test_tickets.json
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0026s
+2026-04-27 18:02:38 [INFO]     tickets | Ticket CREATED: [TKT-960E266F] P3 | Open | User2 (IT) — Laptop slow
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Starting 'Generate Monthly Report' via monthly_report
+2026-04-27 18:02:38 [INFO]     reports | Report saved: C:\Users\thogi\AppData\Local\Temp\tmp_53jjcdh\reports\monthly_202604.json
+2026-04-27 18:02:38 [INFO]     reports | Monthly CSV exported: C:\Users\thogi\AppData\Local\Temp\tmp_53jjcdh\reports\monthly_202604_tickets.csv
+2026-04-27 18:02:38 [INFO]     reports | [REPORT] Monthly report generated for 2026-04
+2026-04-27 18:02:38 [INFO]     utils | [AUDIT] Completed 'Generate Monthly Report' via monthly_report
+2026-04-27 18:02:38 [DEBUG]    utils | [TIMER] monthly_report executed in 0.0040s
+2026-04-27 18:06:08 [INFO]     tickets | Loaded 0 tickets from D:\Project\smart_it_service_desk\data\tickets.json
+2026-04-27 18:06:08 [INFO]     tickets | TicketManager initialised — 0 ticket(s) loaded.
+2026-04-27 18:06:08 [INFO]     itil | Loaded 0 problem record(s).
+2026-04-27 18:06:08 [INFO]     main | System bootstrapped successfully.
+2026-04-27 18:07:35 [INFO]     utils | [AUDIT] Starting 'Create Ticket' via create_ticket
+2026-04-27 18:07:35 [INFO]     utils | [AUDIT] Starting 'Save Tickets' via _save_tickets
+2026-04-27 18:07:35 [INFO]     tickets | Saved 1 ticket(s) to D:\Project\smart_it_service_desk\data\tickets.json
+2026-04-27 18:07:35 [INFO]     utils | [AUDIT] Completed 'Save Tickets' via _save_tickets
+2026-04-27 18:07:35 [DEBUG]    utils | [TIMER] _save_tickets executed in 0.0025s
+2026-04-27 18:07:35 [INFO]     tickets | Ticket CREATED: [TKT-C6E1FCA7] P4 | Open | Veerendra (IT) — Network
+2026-04-27 18:07:35 [INFO]     utils | [AUDIT] Completed 'Create Ticket' via create_ticket
